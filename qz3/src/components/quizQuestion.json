@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Who is Bruce wayne?",
+        "optionA": "Superman",
+        "optionB": "Batman",
+        "optionC": "Iornman",
+        "optionD": "Hulk",
+        "answer": "Batman"
+    },
+    {
+        "question": "What is the name of Batmans assistant?",
+        "optionA": "Alfred",
+        "optionB": "George",
+        "optionC": "bob",
+        "optionD": "kai",
+        "answer": "Alfred"
+    },
+    {
+        "question": "Who is the main villian of Batman'?",
+        "optionA": "Loki",
+        "optionB": "Joker",
+        "optionC": "Red hood",
+        "optionD": "Scarecrow",
+        "answer": "Joker"
+    },
+    {
+        "question": "What is the name of Batmans sidekick?",
+        "optionA": "Robin",
+        "optionB": "Nightwing",
+        "optionC": "Arrow",
+        "optionD": "Flash",
+        "answer": "Robin"
+    },
+    {
+        "question": "Who is the Clark Kent'?",
+        "optionA": "Green Lantern",
+        "optionB": "Wonder woman",
+        "optionC": "Superman",
+        "optionD": "Aqua man",
+        "answer": "Superman"
+    },
+    {
+        "question": "What is Batmans Base called?",
+        "optionA": "The bunker",
+        "optionB": "Arkham asylum",
+        "optionC": "Batcave",
+        "optionD": "Fortress",
+        "answer": "Batcave"
+    },
+    {
+        "question": "Who is batmans mom",
+        "optionA": "karen",
+        "optionB": "Martha Wayne",
+        "optionC": "jess",
+        "optionD": "emily",
+        "answer": "Martha Wayne"
+    },
+    {
+        "question": "Who plays batman in the Dark Knight trilogy?",
+        "optionA": "Christian Bale",
+        "optionB": "Natalie Portman",
+        "optionC": "Joe rogan",
+        "optionD": "Jack Black",
+        "answer": "Christian Bale"
+    },
+    {
+        "question": "Who is batmans son?",
+        "optionA": "bob",
+        "optionB": "Damien Wayne",
+        "optionC": "robert",
+        "optionD": "alfred",
+        "answer": "Damien Wayne"
+    },
+    {
+        "question": "Who is the leader of the justice league'?",
+        "optionA": "Superman",
+        "optionB": "Aquaman",
+        "optionC": "Batman",
+        "optionD": "Flash",
+        "answer": "Batman"
+    },
+    {
+        "question": "Where does Batman live?",
+        "optionA": "California",
+        "optionB": "New york",
+        "optionC": "Gotham",
+        "optionD": "Miami",
+        "answer": "Gotham"
+    },
+    {
+        "question": "What is the real name of the superhero Ant-Man?",
+        "optionA": "Scott Lang",
+        "optionB": "Bruce Banner",
+        "optionC": "Hank Pym",
+        "optionD": "Clint Barton",
+        "answer": "Scott Lang"
+    },
+    {
+        "question": "What is nightwings name?",
+        "optionA": "Dick grayson",
+        "optionB": "tom",
+        "optionC": "Harry",
+        "optionD": "Mark",
+        "answer": "Dick grayson"
+    },
+    {
+        "question": "What is the redhoods real name?",
+        "optionA": "Jason Todd",
+        "optionB": "Elvis",
+        "optionC": "Ryan",
+        "optionD": "Tyrone",
+        "answer": "Jason todd"
+    },
+    {
+        "question": "Who does Batman work with in GPD?",
+        "optionA": "robert",
+        "optionB": "Jim Gordon",
+        "optionC": "emily",
+        "optionD": "Herbert",
+        "answer": "Jim Gordon"
+    }
+]

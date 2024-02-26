@@ -1,0 +1,32 @@
+
+.home{
+    text-align: center;
+    margin-top: 300px;
+  }
+  
+  .home-heading{
+    color: white;
+    font-weight: lighter;
+    margin-left: 780px;
+    font-size: 20px;
+  }
+
+  .home-headingg{
+    color: white;
+    font-weight: lighter;
+    margin-left: 783px;
+    font-size: 20px;
+  }
+  
+  
+  .home-bt{
+    color: rgb(6, 6, 6);
+    font-weight: lighter;
+
+    width: 200px;
+    height: 40px;
+    border-radius: 100px;
+    outline: none;
+    cursor: pointer;
+    margin-left: 350px;
+  }
